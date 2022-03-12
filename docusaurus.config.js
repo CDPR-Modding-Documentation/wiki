@@ -53,19 +53,19 @@ module.exports = {
       items: [
         {
           to: "wolvenkit/",
-          label: "WolvenKit Docs",
+          label: "Wkit Docs",
         },
         {
           to: "cet/",
-          label: "CyberEngineTweaks Docs",
+          label: "CET Docs",
         },
         {
           to: "https://daringfireball.net/projects/markdown/syntax",
-          label: "Markdown Syntax",
+          label: "MD Syntax",
         },
         {
           to: "https://docusaurus.io/docs/markdown-features",
-          label: "Markdown Syntax 02",
+          label: "MD Syntax 02",
         },
       ],
     },
