@@ -6,7 +6,7 @@ When modding Cyberpunk 2077, WolvenKit helps with:
 * Reimporting and converting these edited files back into the RedEngine format
 * Packing and installing/copying these files to the correct part of the game folder
 
-Lastly keep in mind that understanding and modding REDengine 4 can be very challenging. If you're feeling stuck, please consider reaching out to fellow modders and the development team on our Discord server. Now without further adieu...
+Lastly keep in mind that understanding and modding REDengine 4 can be very challenging. If you're feeling stuck, please consider reaching out to fellow modders and the development team on our Discord server. Now let's dive in...
 
 ### Game entities
 When modding, you will need to get your head around fhe following W2RC files:
