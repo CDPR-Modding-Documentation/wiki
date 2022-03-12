@@ -6,8 +6,6 @@ When modding Cyberpunk 2077, WolvenKit helps with:
 * Reimporting and converting these edited files back into the RedEngine format
 * Packing and installing/copying these files to the correct part of the game folder
 
-Lastly keep in mind that understanding and modding REDengine 4 can be very challenging. If you're feeling stuck, please consider reaching out to fellow modders and the development team on our Discord server. Now let's dive in...
-
 ### Game entities
 When modding, you will need to get your head around fhe following W2RC files:
 * .ent files are entity files and equivalent to game objects and are what can be spawned within game. They link in various basic logic and rules that govern that object. They will either link .mesh files in directly for simple objects, or specify a list of appearance variations to call from a dedicated .app file. Note: For characters you should mod the .ent files in the quest subfolder
@@ -25,4 +23,10 @@ One of the .mt files is the multilayered.mt, which is used a lot by characters a
 * .mlsetup files to describe the kinds of .mi material assigned to each layer for this instance of the .multilayered.mt
 * .mlmask files which combine internally a set of grayscale textures which describes which layer is used by which part of the mesh
 * .xbm files hold textures
+
+## Get ready for modding
+The rest of this guide section will help get you up to speed with WolvenKit's features and workflows. We'll walk through creating basic mods step-by-step, while explaining how to get the best out of WolvenKit. Lastly keep in mind that understanding and modding REDengine 4 can be very challenging. If you're feeling stuck, please consider reaching out to fellow modders and the development team on our Discord server.
+
+Lastly keep in mind that understanding and modding REDengine 4 can be very challenging. If you're feeling stuck, please consider reaching out to fellow modders and the development team on our Discord server. Now let's dive in... 
+
 
