@@ -1,6 +1,7 @@
 module.exports = {
-  title: "My Site",
-  url: "http://wolvenkit.github.org",
+  title: "RED Modding Wiki",
+  favicon: "/img/favicon.ico",
+  url: "https://wolvenkit.github.io",
   baseUrl: "/wiki/",
   deploymentBranch: 'gh-pages',
   projectName: 'wiki',
@@ -53,19 +54,19 @@ module.exports = {
       items: [
         {
           to: "wolvenkit/",
-          label: "WolvenKit Docs",
+          label: "Wkit Docs",
         },
         {
           to: "cet/",
-          label: "CyberEngineTweaks Docs",
+          label: "CET Docs",
         },
         {
           to: "https://daringfireball.net/projects/markdown/syntax",
-          label: "Markdown Syntax",
+          label: "MD Syntax",
         },
         {
           to: "https://docusaurus.io/docs/markdown-features",
-          label: "Markdown Syntax 02",
+          label: "MD Syntax 02",
         },
       ],
     },
