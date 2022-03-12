@@ -1,6 +1,6 @@
 module.exports = {
   title: "My Site",
-  url: "/",
+  url: "http://wolvenkit.github.org",
   baseUrl: "/",
   deploymentBranch: 'gh-pages',
   projectName: 'wiki',
@@ -61,6 +61,14 @@ module.exports = {
         },
       ],
     },
-    
+  },
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-GB',
+      },
+    },
   },
 };
