@@ -1,7 +1,7 @@
 module.exports = {
   title: "My Site",
   url: "http://wolvenkit.github.org",
-  baseUrl: "/",
+  baseUrl: "/wiki/",
   deploymentBranch: 'gh-pages',
   projectName: 'wiki',
   organizationName: 'WolvenKit',
