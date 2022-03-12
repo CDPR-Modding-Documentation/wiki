@@ -59,6 +59,14 @@ module.exports = {
           to: "cet/",
           label: "CyberEngineTweaks Docs",
         },
+        {
+          to: "https://daringfireball.net/projects/markdown/syntax",
+          label: "Markdown Syntax",
+        },
+        {
+          to: "https://docusaurus.io/docs/markdown-features",
+          label: "Markdown Syntax 02",
+        },
       ],
     },
   },
