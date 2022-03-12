@@ -1,6 +1,7 @@
 module.exports = {
-  title: "My Site",
-  url: "http://wolvenkit.github.org",
+  title: "RED Modding Wiki",
+  favicon: "/img/favicon.ico",
+  url: "https://wolvenkit.github.io",
   baseUrl: "/wiki/",
   deploymentBranch: 'gh-pages',
   projectName: 'wiki',
