@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 ## How WolvenKit fits in to the modding workflow
 ### Essentials
 When modding Cyberpunk 2077, WolvenKit helps with:
