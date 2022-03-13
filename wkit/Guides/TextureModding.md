@@ -1,3 +1,8 @@
+---
+sidebar_position: 2
+title: Texture modding workflow
+---
+
 ## Creating a texture replacement mod
 ### Starting a project
 Ensure WolvenKit is properly configured by following the Setup procedure
