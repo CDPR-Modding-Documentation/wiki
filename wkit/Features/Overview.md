@@ -4,8 +4,8 @@ hide_table_of_contents: false
 ---
 
 <iframe
-    width="733"
-    height="412"
+    width="100%"
+    height="433"
     src="https://www.youtube.com/embed/WfEi3QwhTIs"
     frameborder="0"
     allow="autoplay; encrypted-media"
