@@ -27,3 +27,10 @@ One of the .mt files is the multilayered.mt, which is used a lot by characters a
 * .mlsetup files to describe the kinds of .mi material assigned to each layer for this instance of the .multilayered.mt
 * .mlmask files which combine internally a set of grayscale textures which describes which layer is used by which part of the mesh
 * .xbm files hold textures
+
+## Get ready for modding
+The rest of this guide section will help get you up to speed with WolvenKit's features and workflows. We'll walk through creating basic mods step-by-step, while explaining how to get the best out of WolvenKit. Lastly keep in mind that understanding and modding REDengine 4 can be very challenging. If you're feeling stuck, please consider reaching out to fellow modders and the development team on our Discord server.
+
+Lastly keep in mind that understanding and modding REDengine 4 can be very challenging. If you're feeling stuck, please consider reaching out to fellow modders and the development team on our Discord server. Now let's dive in... 
+
+
